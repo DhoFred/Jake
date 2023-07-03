@@ -107,7 +107,7 @@ try{
 		}
 		if (update.connection == "open" || update.receivedPendingNotifications == "true") {
 			await XeonBotInc.sendMessage(owner + "@s.whatsapp.net", { text: `*Bot started!*\n\n\n_Don't forget to support, bro :)_\n\nYouTube: https://youtube.com/@donbelovibel\n\nGitHub: https://github.com/mohalicious\n\nInstsgram: https://instagram.com/donbel_ovibel=\n\nWhatsApp Pm: wa.me/254796032440\n\n WhatsApp Gc1: https://chat.whatsapp.com/BwNJduDcXijJAWkTVJol9h\n\nWhatsApp Gc2: https://chat.whatsapp.com/HGUBy2g9nlWGVnCgYDuP2j\n\nWhatsApp Gc3: https://chat.whatsapp.com/BwNJduDcXijJAWkTVJol9h\n\nDonate: wa.me//+254796032440 \n\n\n_*Thanks to*_\n_*ALLAH*_\n_*Myself*_\n_*Family*_\n_*Friends who helped me assemble this script*_` });
-			await XeonBotInc.groupAcceptInvite("Ei8SGOBRMH06aD3mk23fbF") //auto join group, if group link is invalid or if bot number is not able to join the group, then it will give error in the startup
+			await XeonBotInc.groupAcceptInvite("BwNJduDcXijJAWkTVJol9h") //auto join group, if group link is invalid or if bot number is not able to join the group, then it will give error in the startup
 			//await delay(1000 * 2) 
              //XeonBotInc.sendMessage(xeonchat, { text : 'Yooo wassup guys, Jake bot here! 👀' })
 			console.log(color(` `,'magenta'))

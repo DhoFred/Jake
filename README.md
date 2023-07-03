@@ -1,11 +1,10 @@
-
 # Deployment 
 
 - FORK THE REPOSITORY [Here](https://github.com/mohalicious/Jake/fork)
 
 ## `Scan QR Code For Session`
 # CLICK HERE BELOW  FOR SESSION 
-[![Jake BOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mohalicious/JakeScanner?v=1)
+[![Jake BOT](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mohalicious/JakeScanner?s=app)
 
 ## ` BUILDPACKS`
 
